@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="header">
       <div className="logo">
-        <img src="assets/Swaroop's_Logo.svg" alt="Logo" />
+        <img src="assets/Swaroop's_Logo.png" alt="Logo" />
       </div>
       <nav>
         <ul>
